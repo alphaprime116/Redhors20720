@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Wordpress, Node, Laravel, React/Next, Vue/Nuxt, Shopify, Ruby On Rails, Golang.**
 
-- 📫 How to reach me *red.horse0720@gmail.com*
+//- 📫 How to reach me *red.horse0720@gmail.com*
 
 
 <h3 align="left">Languages and Tools:</h3>
